@@ -1,0 +1,22 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Ammo_Box_Main
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.149020 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd Untitled/Ammo_Box_Main.jpg
+
+newmtl Ammo_Box_Metal
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.211765 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd Untitled/Ammo_Box_Metal.jpg
+
+newmtl Ammo_Box_Text
+Ka 0.000000 0.000000 0.000000
+Kd 0.250980 0.243137 0.172549
+Ks 0.330000 0.330000 0.330000
+map_Kd Untitled/Ammo_Box_Text.jpg
+
